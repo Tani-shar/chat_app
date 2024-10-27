@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RoomCodeEntry",
+            "request": "launch",
+            "mainClass": "RoomCodeEntry",
+            "projectName": "chat_app_ce9a055"
+        },
+        {
+            "type": "java",
+            "name": "ChatRoom",
+            "request": "launch",
+            "mainClass": "ChatRoom",
+            "projectName": "chat_app_ce9a055"
+        },
+        {
+            "type": "java",
             "name": "Launch ChatClient",
             "request": "launch",
             "mainClass": "ChatClient",
